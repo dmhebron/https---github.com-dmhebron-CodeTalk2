@@ -33,7 +33,9 @@ console.log('starting next task');
 3. created a folder called content and moved the txt files
 4. ran the code again and got no errors
 
-
+*/
+/*
+fs: file system
 
 
 
